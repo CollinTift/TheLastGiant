@@ -155,12 +155,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   xLength: 100
   zLength: 100
-  noiseScale: 16.49
-  octaves: 4
-  persistance: 0.5
-  lacunarity: 2
-  seed: 16
-  offset: {x: 4.46, y: 2.27}
+  noiseScale: 27.3
+  octaves: 8
+  persistance: 0.539
+  lacunarity: 2.2
+  seed: 1364
+  offset: {x: 3.34, y: 4.36}
   autoUpdate: 1
 --- !u!4 &36031032
 Transform:
