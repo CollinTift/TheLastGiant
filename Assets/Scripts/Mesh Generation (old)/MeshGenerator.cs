@@ -8,8 +8,8 @@ public class MeshGenerator : MonoBehaviour {
     Vector3[] vertices;
     int[] triangles;
 
-    public int xSize = 20;
-    public int zSize = 20;
+    public int xSize = 100;
+    public int zSize = 100;
 
     private float offsetX = 100f;
     private float offsetZ = 100f;
